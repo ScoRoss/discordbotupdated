@@ -1,0 +1,1 @@
+@commands.has_permissions(manage_messages=True)
